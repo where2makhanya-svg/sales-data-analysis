@@ -21,3 +21,6 @@ This project demonstrates a beginner's data analysis using Microsoft Excel. The 
 
 ## Purpose
 This project showcases analytical skills including data calculations, grouping, and visualisation.
+
+## Visualisation
+![Revenue Chart](https://github.com/where2makhanya-svg/sales-data-analysis/blob/main/IMG_1552.jpeg)
